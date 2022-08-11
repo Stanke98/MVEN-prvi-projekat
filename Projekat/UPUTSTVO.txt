@@ -1,0 +1,3 @@
+Projekat je bez node_modules u app i apis.
+Potrebno je ići na yarn komandu u apis-u i app-u zbog instalacije paketa.
+Projekat se pokrece sa yarn start u oba foldera.
